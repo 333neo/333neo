@@ -27,8 +27,8 @@
   <h2>Contact</h2>
   <ul>
     <li>Email: sergimaten204@gmail.com</li>
-    <li>LinkedIn: </li>
-    <a href="https://www.linkedin.com/in/sergio-marcen-tomas/" target="_blank">Sergio Marcen Tomás</a>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/sergio-marcen-tomas/" target="_blank">Sergio Marcen Tomás</a></li>
+    
   </ul>
 </div>
 
