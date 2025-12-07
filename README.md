@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhdnE0dHNtbWtmcGJsYjV3YzhwdG83MDdjeDRpbThyaHU2azg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NdgP7IJpz67fy/giphy.gif" align="center" alt="banner">
 </div>
+<br>
 <div>
   <h2>About Me</h2>
   <p>Hey! I'm Sergio, an SMR student form Zaragoza. Nice to meet you!</p>
