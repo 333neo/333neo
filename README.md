@@ -7,18 +7,15 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhdnE0dHNtbWtmcGJsYjV3YzhwdG83MDdjeDRpbThyaHU2azg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NdgP7IJpz67fy/giphy.gif" align="center" alt="banner">
 </div>
 
-
-
-
 ---
 
-### 🚀 Sobre mí
-Desde que era pequeño, la informática ha sido mi gran pasión. Descubrir que podía dedicar mi carrera profesional a lo que más me apasionaba fue un punto de inflexión en mi vida. Me encanta configurar sistemas, enfrentarme a retos técnicos y aprender cómo funciona la tecnología "bajo el capó".
+<h2>🚀 Sobre mí</h2>
+<p>La informática siempre me ha gustado desde que era pequeño. Descubrir que podía dedicar mi carrera profesional a lo que más me gustaba fue un punto de inflexión en mi vida.</p>
 
-### 🏆 Hitos Destacados
-* **1er Puesto en Amazon Tech Talent Arena (ATTA):** Ganador de la competición de **AWS**, demostrando habilidades en soluciones cloud y arquitectura.
+<h2>🏆 Premios</h2>
+<p><strong>1er Puesto en Amazon Tech Talent Arena (ATTA)</strong>: Ganador de la competición de <strong>AWS</strong>, demostrando habilidades en soluciones cloud y arquitectura.</p>
 
-### 🛠️ Mi Stack Técnico
+<h2>🛠️ Mis habilidades</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -42,20 +39,21 @@ Desde que era pequeño, la informática ha sido mi gran pasión. Descubrir que p
   </tr>
 </table>
 
-### 📚 Próximos Pasos
-Actualmente cursando **SMR**. Mi hoja de ruta es clara:
-1. Finalizar SMR en Zaragoza.
-2. Cursar **DAM** (Desarrollo de Aplicaciones Multiplataforma).
-3. Especializarme con **DAW** (Desarrollo de Aplicaciones Web).
-
+<h2>📚 Próximos Pasos</h2>
+<p>Actualmente estoy cursando <strong>SMR</strong>.</p> 
+<p><strong>Que voy a estudiar una vez me gradúe:</strong></p>
+<ul>
+        <li><strong>1. DAM</strong> (Desarrollo de Aplicaciones Multiplataforma)</li>
+        <li><strong>2. DAw</strong> (Desarrollo de Aplicaciones Web)</li>
+      </ul>
 ---
 
 ### 📩 Contacto
 <p align="left">
-  <a href="mailto:TU_EMAIL@ejemplo.com">
+  <a href="mailto:sergimaten204@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/](https://www.linkedin.com/in/sergio-marcen-tomas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -66,9 +64,9 @@ Actualmente cursando **SMR**. Mi hoja de ruta es clara:
   <summary>🌐 <strong>English Version (Click to expand)</strong></summary>
   
   <br>
-  I am [Tu Edad] years old and currently studying <strong>Microcomputer Systems and Networks (SMR)</strong> in Zaragoza, Spain.
+  I am 21 years old and currently studying <strong>Microcomputer Systems and Networks</strong> in Zaragoza, Spain.
   
   - **Achievement:** 1st Place at **Amazon Tech Talent Arena (ATTA)**.
-  - **Focus:** Passionate about systems administration and cloud architecture since I was a kid.
+  - **Focus:** Passionate about systems administration and cloud architecture.
   - **Roadmap:** SMR ➡️ DAM (Multi-platform Development) ➡️ DAW (Web Development).
 </details>
