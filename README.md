@@ -46,7 +46,7 @@
 <h2>📚 Próximos Pasos</h2>
 <p>Actualmente estoy cursando <strong>SMR</strong>.</p> 
 <p><strong>Que voy a estudiar una vez me gradúe:</strong></p>
-<ul style="list-style-type: none;>
+<ul style="list-style-type: none>
   <li><strong>1. DAM</strong> (Desarrollo de Aplicaciones Multiplataforma)</li>
   <li><strong>2. DAW</strong> (Desarrollo de Aplicaciones Web)</li>
 </ul>
