@@ -7,7 +7,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhdnE0dHNtbWtmcGJsYjV3YzhwdG83MDdjeDRpbThyaHU2azg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NdgP7IJpz67fy/giphy.gif" align="center" alt="banner">
 </div>
 
----
 
 <h2>🚀 Sobre mí</h2>
 <p>La informática siempre me ha gustado desde que era pequeño. Descubrir que podía dedicar mi carrera profesional a lo que más me gustaba fue un punto de inflexión en mi vida.</p>
@@ -52,7 +51,6 @@
   <li><strong>2. DAW</strong> (Desarrollo de Aplicaciones Web)</li>
 </ul>
 
----
 
 ### 📩 Contacto
 <p align="left">
@@ -64,7 +62,6 @@
   </a>
 </p>
 
----
 
 <details>
   <summary>🌐 <strong>English Version (Click to expand)</strong></summary>
