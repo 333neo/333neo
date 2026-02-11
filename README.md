@@ -1,13 +1,14 @@
+<div align="center">
+  <h1>¡Hola! Soy Sergio 👋</h1>
+  <p><strong>Estudiante de SMR en Zaragoza | Ganador de AWS ATTA 🏆</strong></p>
+</div>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhdnE0dHNtbWtmcGJsYjV3YzhwdG83MDdjeDRpbThyaHU2azg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NdgP7IJpz67fy/giphy.gif" align="center" alt="banner">
 </div>
 
 
-<div align="center">
-  <h1>¡Hola! Soy [Tu Nombre] 👋</h1>
-  <p><strong>Estudiante de SMR en Zaragoza | Ganador de AWS ATTA 🏆</strong></p>
-</div>
+
 
 ---
 
