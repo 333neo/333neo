@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Sergio 👋</h1>
-  <p><strong>Estudiante de SMR en Zaragoza | Ganador de AWS ATTA 🏆</strong></p>
+  <p><strong>Estudiante de SMR en Zaragoza</strong></p>
 </div>
 
 <div align="center">
