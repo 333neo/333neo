@@ -12,40 +12,46 @@
 <h2>🚀 Sobre mí</h2>
 <p>La informática siempre me ha gustado desde que era pequeño. Descubrir que podía dedicar mi carrera profesional a lo que más me gustaba fue un punto de inflexión en mi vida.</p>
 
+
 <h2>🏆 Premios</h2>
 <p><strong>1er Puesto en Amazon Tech Talent Arena (ATTA)</strong>: Ganador de la competición de <strong>AWS</strong>, demostrando habilidades en soluciones cloud y arquitectura.</p>
 
+
 <h2>🛠️ Mis habilidades</h2>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Sistemas y Cloud</strong>
-      <ul>
-        <li>AWS (Amazon Web Services)</li>
-        <li>Servidores Apache</li>
-        <li>DNS con BIND9</li>
-        <li>Servidores ProFTPD</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Desarrollo y Web</strong>
-      <ul>
-        <li>Python (Básico)</li>
-        <li>HTML5 & CSS3</li>
-        <li>Bootstrap</li>
-        <li>WordPress</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Sistemas y Cloud</strong>
+        <ul>
+          <li>AWS (Amazon Web Services)</li>
+          <li>Servidores Apache</li>
+          <li>DNS con BIND9</li>
+          <li>Servidores ProFTPD</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <strong>Desarrollo y Web</strong>
+        <ul>
+          <li>Python (Básico)</li>
+          <li>HTML5 & CSS3</li>
+          <li>Bootstrap</li>
+          <li>WordPress</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h2>📚 Próximos Pasos</h2>
 <p>Actualmente estoy cursando <strong>SMR</strong>.</p> 
 <p><strong>Que voy a estudiar una vez me gradúe:</strong></p>
 <ul>
-        <li><strong>1. DAM</strong> (Desarrollo de Aplicaciones Multiplataforma)</li>
-        <li><strong>2. DAw</strong> (Desarrollo de Aplicaciones Web)</li>
-      </ul>
+  <li><strong>1. DAM</strong> (Desarrollo de Aplicaciones Multiplataforma)</li>
+  <li><strong>2. DAW</strong> (Desarrollo de Aplicaciones Web)</li>
+</ul>
+
 ---
 
 ### 📩 Contacto
